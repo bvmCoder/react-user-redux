@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node ./node_modules/webpack-dev-server/bin/webpack-dev-server.js --hot --inline --history-api-fallback"
   },
-  "author": "Prabhvir Kaur",
+  "author": "Dixit patel <talkwithdixit@gmail.com>",
   "license": "MIT",
   "devDependencies": {
     "babel-core": "^6.21.0",
@@ -26,8 +26,8 @@
     "webpack-dev-server": "^1.16.2"
   },
   "dependencies": {
-    "react": "^15.4.2",
-    "react-dom": "^15.4.2",
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2",
     "react-redux": "^5.0.4",
     "redux": "^3.6.0"
   }
